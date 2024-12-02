@@ -18,6 +18,7 @@
 * [Triagers](#triagers)
 * [License](#license)
 
+<h1> Gaurav Hadale</h1>
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
